@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Senior Project
 - 🌱 I’m currently learning ML, OpenCV
 - 🤔 I’m looking for Internship and Job Opportunities
-- 🥅 2020 Goals: Contribute more to Github
+- 🥅 2021 Goals: Contribute more to Github
 
 ---
 <br />
