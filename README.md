@@ -1,11 +1,11 @@
 ### Hi there, I'm Sultan 👋
 
-## I'm a Senior year student
+## I'm a 1st year Data Science Masters student
 
-- 🔭 I’m currently working on my Senior Project
-- 🌱 I’m currently learning ML, OpenCV
-- 🤔 I’m looking for Internship and Job Opportunities
-- 🥅 2021 Goals: Contribute more to Github
+- 🔭 I’m currently working to expand my knowledge
+- 🌱 I’m currently learning ML, Google Data Studio
+- 🤔 I’m looking for Internships and Job Opportunities
+- 🥅 2021-22 Goals: Contribute more to Github
 
 ---
 <br />
