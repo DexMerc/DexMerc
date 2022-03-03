@@ -3,9 +3,9 @@
 ## I'm a 1st year Data Science Masters student
 
 - 🔭 I’m currently working as Research Assistant
-- 🌱 I’m currently learning ML, Google Data Studio
-- 🤔 I’m looking for Internships and Job Opportunities
-- 🥅 2021-22 Goals: Contribute more to Github
+- 🌱 Focusing on learning Data Scince, ML and occasionally PowerBI
+- 🤔 Looking for Internships and Job Opportunities
+- 🥅 2022-23 Goals: Contribute more to Github
 
 ---
 <br />
