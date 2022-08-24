@@ -3,8 +3,7 @@
 ## I'm a 2nd year Data Science Masters student
 
 - 🔭 I’m currently working as Research Assistant
-- 🌱 Focusing on learning: Data Scince, ML and occasionally PowerBI
--- sss
+- 🌱 Focusing on learning: Data Scince and Django Framework
 - 🤔 Looking for Internships and Job Opportunities
 - 🥅 2022-23 Goals: Contribute more to Github
 
