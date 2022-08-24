@@ -1,9 +1,10 @@
 ### Hi there, I'm Sultan 👋
 
-## I'm a 1st year Data Science Masters student
+## I'm a 2nd year Data Science Masters student
 
 - 🔭 I’m currently working as Research Assistant
-- 🌱 Focusing on learning Data Scince, ML and occasionally PowerBI
+- 🌱 Focusing on learning: Data Scince, ML and occasionally PowerBI
+-- sss
 - 🤔 Looking for Internships and Job Opportunities
 - 🥅 2022-23 Goals: Contribute more to Github
 
