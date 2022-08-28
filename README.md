@@ -1,12 +1,10 @@
-## Hello there, I'm Sultan 👋 
+<img align="right" alt="hello_there_kenobi" width="420px" src="https://github.com/DexMerc/DexMerc/blob/master/static/hello_there.jpeg" /> 
 
-<img alt="hello_there_kenobi" width="300px" src="https://github.com/DexMerc/DexMerc/blob/master/static/hello_there.jpeg" />
+<a href="https://www.linkedin.com/in/dexmerc/">
+   <img  align="right" alt="Sultan's Linkedin" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<h2 align="left">Hello there, I'm Sultan 👋 </h2>
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/dexmerc/">
-   <img alt="Sultan's Linkedin" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-  </a>
-</p>
 
 
 ```yaml
@@ -19,6 +17,8 @@ fields_of_interests: ["Data Analytics", "Web Development(Django)"]
 technical_background: ["Python", "PowerBI", "MATLAB", "Java"]
 hobbies: ["Astronomy", "Cinema", "Gaming", "Boardgames"]
 ```
+
+
 
 ---
 
