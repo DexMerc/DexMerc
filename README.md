@@ -5,7 +5,13 @@
 </a>
 <h2 align="left">Hello there, I'm Sultan 👋 </h2>
 
+- 🔭 I’m currently working as a Research Assistant
+- 🌱 Focusing on learning: Data Scince and Django Framework
+- 🤔 Looking for Internships and Job Opportunities
+- 🥅 2022-23 Goals: Contribute more to Github
 
+
+</br></br></br>
 
 ```yaml
 name: Sultan
@@ -18,14 +24,6 @@ technical_background: ["Python", "PowerBI", "MATLAB", "Java"]
 hobbies: ["Astronomy", "Cinema", "Gaming", "Boardgames"]
 ```
 
-
-
----
-
-- 🔭 I’m currently working as a Research Assistant
-- 🌱 Focusing on learning: Data Scince and Django Framework
-- 🤔 Looking for Internships and Job Opportunities
-- 🥅 2022-23 Goals: Contribute more to Github
 
 ---
 <br />
