@@ -9,7 +9,7 @@
 - 🌱 Focusing on learning: Data Scince and Django Framework
 - 🤔 Looking for Internships and Job Opportunities
 
-
+<hr>
 </br></br></br></br>
 
 ```yaml
