@@ -15,7 +15,7 @@
 
 ```yaml
 name: Sultan
-located_in: Nur-Sultan(Astana), Kazakhstan
+located_in: Astana, Kazakhstan
 job: Research Assistant (Python developer)
 education: ["MSc in Data Science'23", "BSc in Computer Science'21"]
 
