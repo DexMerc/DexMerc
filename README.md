@@ -8,7 +8,6 @@
 - 🔭 I’m currently working as a Research Assistant
 - 🌱 Focusing on learning: Data Scince and Django Framework
 - 🤔 Looking for Internships and Job Opportunities
-- 🥅 2022-23 Goals: Contribute more to Github
 
 
 </br></br></br></br>
