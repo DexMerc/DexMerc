@@ -19,7 +19,7 @@ located_in: Astana, Kazakhstan
 job: Research Assistant (Python developer)
 education: ["MSc in Data Science'23", "BSc in Computer Science'21"]
 
-fields_of_interests: ["Data Analytics", "Web Development(Django)"]
+fields_of_interests: ["Data Analytics", "ML development", "Web Development(Django)"]
 technical_background: ["Python", "PowerBI", "MATLAB", "Java"]
 hobbies: ["Astronomy", "Cinema", "Gaming", "Boardgames"]
 ```
