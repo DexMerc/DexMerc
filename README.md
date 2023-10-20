@@ -6,7 +6,8 @@
 <h2 align="left">Hello there, I'm Sultan 👋 </h2>
 
 - 🔭 I’m currently working as a Research Assistant
-- 🌱 Focusing on learning: Data Science and Django Framework
+- 🌱 Focusing on developing myself in Data Science and Machine Learning
+<!-- learning: Data Science and Django Framework -->
 - 🤔 Looking for Internships and Job Opportunities
 
 <hr>
